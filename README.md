@@ -2,7 +2,7 @@
 
 # Hey there! I'm Jovi 👨‍💻
 
-### `Informatics Student` • `Semester 5`
+### `Informatics Student` • `Semester 6`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Research+Assistant;Fullstack+Developer;Cybersecurity+Learner;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
